@@ -23,3 +23,4 @@ target/
 *sublime*
 
 phantomjs/highcharts.js
+node_modules

@@ -1,0 +1,6 @@
+{
+  "document_type": "pdf",
+  "document_content": "<html><body>Hello World!</body></html>",
+  "name": "hello.pdf",
+  "test": true
+}

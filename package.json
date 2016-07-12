@@ -1,5 +1,10 @@
 {
   "name": "highcharts-export-server",
-  "version": "0.1.0"
+  "scripts": {
+    "start": "phantomjs ./phantomjs/highcharts-convert.js -host 127.0.0.1 -port 3003"
+  },
+  "version": "0.1.0",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.7"
+  }
 }
-
